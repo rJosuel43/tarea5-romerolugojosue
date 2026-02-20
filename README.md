@@ -9,7 +9,7 @@ INSTRUCTIVO
 1. Abrir XAMPP: Arranca el panel de control de XAMPP y asegúrate de que Apache esté iniciado.
 
 
-2. Ubicar la carpeta del proyecto: La carpeta tarea5-romerolugojosue debe estar dentro de:
+2. Ubicar la carpeta del proyecto: La carpeta descargada tarea5-romerolugojosue debe estar dentro de:
 
 C:\xampp\htdocs
 
